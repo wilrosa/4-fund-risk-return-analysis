@@ -48,7 +48,7 @@ Based on the analysis in this section, we answer the question:
 whale_cumulative_returns.plot(figsize=(15,7), title="Fund NAV & S&P 500 Cumulative Returns")
 ```
 
-* ![Fund NAV & S&P 500 Cumulative Returns](Fund_NAV_S&P_500_Cumulative_Returns.png) 
+* ![Fund NAV & S&P 500 Cumulative Returns](/Screenshots/Fund_NAV_S&P_500_Cumulative_Returns.png) 
 
 
 ## **Analyze the Volatility**
