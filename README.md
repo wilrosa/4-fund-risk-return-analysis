@@ -96,7 +96,8 @@ Here, we answer the question:
 whale_sharpe_ratios.plot.bar(figsize=(10, 7), title="Fund NAV and S&P 500 Sharpe Ratios")
 ```
 
-* ![Fund NAV and S&P 500 Sharpe Ratios](/Screenshots/Fund_NAV_and_S&P_500_Sharpe Ratios.png)
+* ![Fund_NAV_and_S&P_500_Sharpe Ratios](/Screenshots/Fund_NAV_and_S&P_500_Sharpe Ratios.png)
+
 
 ## **Diversify the Portfolio**
 
