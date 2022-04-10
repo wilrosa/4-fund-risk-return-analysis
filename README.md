@@ -90,14 +90,11 @@ fund_std_21.plot(figsize=(10,7), title="Fund NAV 21 Day Standard Deviation")
 
 Here, we answer the question: 
 
-(6) Which of the four portfolios offers the best risk-return profile? Which offers the worst??
+(6) Which of the four portfolios offers the best risk-return profile? Which offers the worst?
 
 ```python
 whale_sharpe_ratios.plot.bar(figsize=(10, 7), title="Fund NAV and S&P 500 Sharpe Ratios")
 ```
-
-* ![Fund_NAV_and_S&P_500_Sharpe Ratios](/Screenshots/Fund_NAV_and_S&P_500_Sharpe Ratios.png)
-
 
 ## **Diversify the Portfolio**
 
