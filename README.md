@@ -61,7 +61,7 @@ Here, we answer the question:
 fund_daily_returns.plot(kind='box', title="Fund NAV Daily Returns",rot=45)
 ```
 
-* ![Fund NAV Daily Returns](Fund_NAV_Daily_Returns.png)
+* ![Fund NAV Daily Returns](/Screenshots/Fund_NAV_Daily_Returns.png)
 
 
 ## **Analyze the Risk**
@@ -78,13 +78,13 @@ In this section, we answer the following three questions:
 whale_std_21.plot(figsize=(10,7), title="Fund NAV and S&P 500 21 Day Standard Deviation")
 ```
 
-* ![Fund NAV and S&P 500 21 Day Standard Deviation](Fund_NAV_and_S&P_500_21_Day_Standard_Deviation.png)
+* ![Fund NAV and S&P 500 21 Day Standard Deviation](/Screenshots/Fund_NAV_and_S&P_500_21_Day_Standard_Deviation.png)
 
 ```python
 fund_std_21.plot(figsize=(10,7), title="Fund NAV 21 Day Standard Deviation")
 ```
 
-* ![Fund NAV 21 Day Standard Deviation](Fund_NAV_21_Day_Standard_Deviation.png)
+* ![Fund NAV 21 Day Standard Deviation](/Screenshots/Fund_NAV_21_Day_Standard_Deviation.png)
 
 ## **Analyze the Risk-Return Profile**
 
@@ -96,7 +96,7 @@ Here, we answer the question:
 whale_sharpe_ratios.plot.bar(figsize=(10, 7), title="Fund NAV and S&P 500 Sharpe Ratios")
 ```
 
-* ![Fund NAV and S&P 500 Sharpe Ratios](Fund_NAV_and_S&P_500_Sharpe Ratios.png)
+* ![Fund NAV and S&P 500 Sharpe Ratios](/Screenshots/Fund_NAV_and_S&P_500_Sharpe Ratios.png)
 
 ## **Diversify the Portfolio**
 
@@ -108,7 +108,7 @@ In this final section, I evaluated how two portfolios react relative to the broa
 bh_rolling_60_beta.plot(figsize=(10,7), title="BERKSHIRE HATHAWAY INC - 60 Day Rolling Beta")
 ```
 
-* ![BERKSHIRE HATHAWAY INC - 60 Day Rolling Beta](BERKSHIRE_HATHAWAY_INC-60_Day_Rolling_Beta.png)
+* ![BERKSHIRE HATHAWAY INC - 60 Day Rolling Beta](/Screenshots/BERKSHIRE_HATHAWAY_INC-60_Day_Rolling_Beta.png)
 
 (8) Which of the two portfolios do you recommend for inclusion in your firm’s suite of fund offerings?
 
@@ -116,7 +116,7 @@ bh_rolling_60_beta.plot(figsize=(10,7), title="BERKSHIRE HATHAWAY INC - 60 Day R
 tg_rolling_60_beta.plot(figsize=(10,7), title="TIGER GLOBAL MANAGEMENT LLC - 60 Day Rolling Beta")
 ```
 
-* ![TIGER GLOBAL MANAGEMENT LLC - 60 Day Rolling Beta](TIGER_GLOBAL_MANAGEMENT_LLC.png)
+* ![TIGER GLOBAL MANAGEMENT LLC - 60 Day Rolling Beta](/Screenshots/TIGER_GLOBAL_MANAGEMENT_LLC.png)
 
 ---
 ## Contributors
